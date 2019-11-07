@@ -1,6 +1,6 @@
 #utf-8
 
-string = 'string'
+mstring = 'string'
 numb_1 = 89
 numb_2 = 14.98
 print(string)
@@ -13,7 +13,5 @@ numb_2 = float(input('Введите число: '))
 print(string)
 print(numb_1)
 print(numb_2)
-
-
 
 
